@@ -10,7 +10,7 @@ const greeting = {
   username: "Joel Mathew Koshy 😎",
   title: "Hi all, I'm Joel",
   subTitle: emoji("A passionate Software Developer 👨‍💻 having experience in building 🔨 Native & Hybrid 📱 mobile apps."),
-  resumeLink: "https://drive.google.com/file/d/1y4bB7pMJR_8SWh-fhuz-7iKgKVeSnlRl/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1wjDfiEr-c3z3oc9Mt_-e1vZDCtrZUA_n/view?usp=sharing"
 };
 
 // Your Social Media Link
