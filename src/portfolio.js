@@ -1,5 +1,4 @@
-﻿
-/* Change this file to get your personal Portfolio */
+﻿/* Change this file to get your personal Portfolio */
 
 // Your Summary And Greeting Section
 
@@ -9,14 +8,16 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Joel Mathew Koshy 😎",
   title: "Hi all, I'm Joel",
-  subTitle: emoji("A passionate Software Developer 👨‍💻 having experience in building 🔨 Native & Hybrid 📱 mobile apps."),
-  resumeLink: "https://drive.google.com/file/d/1wjDfiEr-c3z3oc9Mt_-e1vZDCtrZUA_n/view?usp=sharing"
+  subTitle: emoji(
+    "A passionate Frontend Developer 👨‍💻 having experience in building 🔨 React web apps ⚛️, Native & Hybrid 📱 mobile apps."
+  ),
+  resumeLink:
+    "https://drive.google.com/file/d/1OWOeZ31C-SIxY9NRKFkYBn4wah_Jct72/view?usp=sharing",
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
-
   github: "https://github.com/Rec0iL99",
   linkedin: "https://www.linkedin.com/in/joel-mathew-koshy/",
   gmail: "joelmathewkoshy@karunya.edu.in",
@@ -28,16 +29,18 @@ const socialMediaLinks = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  githubConvertedToken: "NjE2MjhkNGZlODk3NDYwNjY2MjhhNmUwZjQwMTFlMDlhOGNjMmE1OA==",
+  githubConvertedToken:
+    "NjE2MjhkNGZlODk3NDYwNjY2MjhhNmUwZjQwMTFlMDlhOGNjMmE1OA==",
   githubUserName: "Rec0iL99",
-  showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false 
+  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
+  subtitle:
+    "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+92-3243454077",
-  email_address: "joelmathewkoshy@karunya.edu.in"
+  email_address: "joelmathewkoshy@karunya.edu.in",
 };
 
 export { greeting, socialMediaLinks, openSource, contactInfo };
