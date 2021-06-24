@@ -12,7 +12,7 @@ const greeting = {
     'A passionate Full Stack Developer 👨‍💻 having experience in building 🔨 Web apps 🕸️, Native & Hybrid 📱 mobile apps.'
   ),
   resumeLink:
-    'https://drive.google.com/file/d/1gS0EUm1mfodQSZod6FmUDmIxHl-miGUl/view?usp=sharing',
+    'https://drive.google.com/file/d/1dr-uw3SAmM3ui8AeW7JVX6OeX8GoVPqa/view?usp=sharing',
 };
 
 // Your Social Media Link
